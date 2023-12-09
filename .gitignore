@@ -22,3 +22,6 @@ go.work
 
 # Local history
 .history
+
+# IDE-specific stuffs
+.vscode
